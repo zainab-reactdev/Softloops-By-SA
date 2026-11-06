@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Gaegu:wght@400;700&family=Nunito:wght@400;600;700&display=swap");
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: "Nunito", sans-serif;
+  background: #fff3e2;
+}
+
+.font-hand {
+  font-family: "Gaegu", cursive;
+}
